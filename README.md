@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @groznyogor
+- 👀 I’m interested in Java, html and Python
+- 🌱 I’m currently learning HTML and Python
