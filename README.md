@@ -1,3 +1,5 @@
-- 👋 Hi, I’m @groznyogor
-- 👀 I’m interested in Java, html and Python
-- 🌱 I’m currently learning HTML and Python
+Hey 🙋‍♂️
+Im groznyogor
+I'm learning 👨‍🏫: JAVA, HTML, PYTHON
+XOMC.PL - Owner 👑
+{ https://discord.gg/QUAQ67eMEP }
