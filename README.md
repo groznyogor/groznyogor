@@ -7,4 +7,5 @@
 - **XOMC**
 - **SlimeHC**
 - **OG SMP**
+- **WariatMC**
 
