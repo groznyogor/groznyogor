@@ -4,8 +4,7 @@
 **PYTHON** **JAVA** **CSS**
 
 ## My Projects 💚:
-- **XOMC**
+- **XOMC** 🔝
 - **SlimeHC**
 - **OG SMP**
-- **WariatMC**
 
