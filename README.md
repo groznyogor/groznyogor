@@ -4,7 +4,9 @@
 **PYTHON** **JAVA** **CSS**
 
 ## My Projects 💚:
-- **XOMC** 🔝
-- **SlimeHC**
+- **XOMC.PL** 🔝
+- **SlimeHC.PL**
 - **OG SMP**
+- **Flashhub.PL**
+- **CraftAGE.EU**
 
