@@ -5,7 +5,6 @@
 
 ## My Projects 💚:
 - **XOMC.PL** 🔝
-- **SlimeHC.PL**
 - **OG SMP**
 - **Flashhub.PL**
 - **CraftAGE.EU**
