@@ -7,7 +7,8 @@
 - **XOMC.PL** 🔝
 - **OG SMP**
 - **Flashhub.PL**
-- **CraftAGE.EU**
+- **CrystalHub.EU**
+- **MCstrefa.pl**
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/1172179309750919168)](https://discord.com/users/1172179309750919168)
 <br><br>
