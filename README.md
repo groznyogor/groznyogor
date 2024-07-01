@@ -2,7 +2,7 @@
 
 <h2 align="center">Im Java and JavaScript (JS) enjoyer 💻</h2>
 
-<h3 align="center">Im learning Python 🙀</h3>
+<h3 align="center">I learning Python 🙀</h3>
 <p align="center"> and i love cats 😻</p>
 
 <h2 align="center">What i do use? 🗿</h2>
