@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Szymon aka groznyogor 👋</h1>
 
-<h2 align="center">Im Java and JavaScript (JS) enjoyer 💻</h2>
+<h2 align="center">Im JavaScript (JS) enjoyer 💻</h2>
 
 <h3 align="center">I learning Python 🙀</h3>
 <p align="center"> and i love cats 😻</p>
