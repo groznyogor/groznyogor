@@ -1,7 +1,7 @@
 # Cześć, jestem Szymon! 👋
 
 ## O mnie
-Jestem **Szymon** (aka **ogoorr**), młody programista z Krakowa, Polska. Mam 14 lat i uwielbiam zgłębiać świat programowania. Moim głównym zainteresowaniem są technologie frontendowe i backendowe, a szczególnie języki takie jak JavaScript.
+Jestem **Szymon** (aka **ogoorr**), młody programista z Krakowa, Polska. Mam 14 (prawie 15) lat i uwielbiam zgłębiać świat programowania. Moim głównym zainteresowaniem są technologie frontendowe i backendowe, a szczególnie języki takie jak JavaScript.
 
 ## Tech Stack 💻
 - **Node.js** - Tworzę aplikację, na platformie Discord i używam Express'a, do backend'a stron WWW.
