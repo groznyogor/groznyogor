@@ -14,7 +14,9 @@ Jestem **Szymon** (aka **ogoorr**), młody programista z Krakowa, Polska. Mam 15
 - **Visual Studio Code** - Wykorzystuję, do pisania zwykle aplikacji web'owych.
 - **Behance** - Strona, przez którą tworzę swoje portfolio (Nieaktualne).
 - **WakaTime** - Strona, przez którą moge widzieć swoje statystyki.
-
+<html>
+<a href="https://wakatime.com/@d9c6d578-7da0-457f-b24a-e4ddd31c4c47"><img src="https://wakatime.com/badge/user/d9c6d578-7da0-457f-b24a-e4ddd31c4c47.svg" alt="Total time coded since May 24 2024" /></a>
+</html>
 
 ## Kontakt 📬
 Skontaktuj się ze mną, na Discord! [Kliknij, aby napisać do mnie!](https://discord.com/users/1322180256823509045)
