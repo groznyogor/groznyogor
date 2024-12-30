@@ -19,8 +19,8 @@ Jestem **Szymon** (aka **ogoorr**), młody programista z Krakowa, Polska. Mam 15
 </html>
 
 ## Kontakt 📬
-Skontaktuj się ze mną, na Discord! [Kliknij, aby napisać do mnie!](https://discord.com/users/1322180256823509045)
-Zobacz moje **Portfolio!** [Kliknij, aby wejść](https://discord.gg/ogor)
-Mój serwer **Discord!** [Kliknij, aby wejsć](https://discord.gg/ogor)
-Moje **Statystyki!** [Kliknij, aby zobaczyć](https://wakatime.com/@kanyd)
+- Skontaktuj się ze mną, na Discord! [Kliknij, aby napisać do mnie!](https://discord.com/users/1322180256823509045)
+- Zobacz moje **Portfolio!** [Kliknij, aby wejść](https://discord.gg/ogor)
+- Mój serwer **Discord!** [Kliknij, aby wejsć](https://discord.gg/ogor)
+- Moje **Statystyki!** [Kliknij, aby zobaczyć](https://wakatime.com/@kanyd)
 
