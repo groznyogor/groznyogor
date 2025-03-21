@@ -4,13 +4,14 @@
 Jestem **Szymon** (aka **ogoorr**), młody programista z Krakowa, Polska. Mam 15 lat i uwielbiam zgłębiać świat programowania. Moim głównym zainteresowaniem są technologie frontendowe i backendowe, a szczególnie języki takie jak JavaScript.
 
 ## Tech Stack 💻
-- **Node.js** - Tworzę aplikację, na platformie Discord.
+- **Node.js** - Tworzę aplikacje, na platformie Discord.
 - **Python** - Używam, do robienia backend'u w moich aplikacjach webowych (Django/Flask).
 - **React** - Tworzę strony internetowe, które są aktualnie średnie. Cały czas, uczę się tego frameworka.
 - **Tailwind CSS** - Używam do **KAŻDEJ** mojej strony.
 
 ## Co wykorzystuje?
 - **Webstorm** - Popularne IDE, do pisania w JavaScript/TypeScript. Wykorzystuję do pisania w JS'IE, ponieważ zbytnio nie potrafię TS'a.
+- **IntelIJ IDEA Ultimate** - Wykorzystuje, do pisania **4FUN** w języku Java.
 - **Visual Studio Code** - Wykorzystuję, do pisania zwykle aplikacji web'owych.
 - **Behance** - Strona, przez którą tworzę swoje portfolio (Nieaktualne).
 - **WakaTime** - Strona, przez którą moge widzieć swoje statystyki.
